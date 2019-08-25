@@ -10,7 +10,7 @@ https://media.giphy.com/media/ftwPbmTTlOFtOvSw2u/giphy.gif
 
 ## Diagrams
 Such as a class diagram. 
-The markdown is ![Alt text](relative/path/to/img.png) 
+The markdown is ![Alt text](https://github.com/ForbiddenIdiot/TestHelloWorld/blob/master/helloworld_scenegraph.png) 
 Sample Image
 
 ## Getting Started
