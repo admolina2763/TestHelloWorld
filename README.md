@@ -9,9 +9,7 @@ https://media.giphy.com/media/ftwPbmTTlOFtOvSw2u/giphy.gif
 [JavaDoc](https://github.com/ForbiddenIdiot/TestHelloWorld/blob/master/index.html)
 
 ## Diagrams
-Such as a class diagram. 
-The markdown is ![Alt text](https://github.com/ForbiddenIdiot/TestHelloWorld/blob/master/helloworld_scenegraph.png) 
-Sample Image
+![Alt text](https://github.com/ForbiddenIdiot/TestHelloWorld/blob/master/helloworld_scenegraph.png) 
 
 ## Getting Started
 Instructions to get a copy of the project up and running on someone's local machine for development and testing purposes. 
