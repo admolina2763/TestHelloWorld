@@ -3,7 +3,7 @@ One paragraph of project description goes here.
 This is a basic JavaFX program that opens a window and uses a button to print "Hello World" to the console. This was made by Angel Molina on August 24, 2019 as an assignment for Object-Oriented Programming at FGCU.
 
 Demonstration
-https://giphy.com/gifs/ftwPbmTTlOFtOvSw2u/html5
+https://media.giphy.com/media/ftwPbmTTlOFtOvSw2u/giphy.gif
 
 Documentation
 Create a docs folder in your project. If using Java, generate JavaDoc in your IDE. If using C++, use Doxygen. Change repository settings (using Settings at top of page) to use GitHub Pages with your docs folder. Add a link to the javadoc/doxygen index.html file with this markdown: [Text to appear](URL) 
