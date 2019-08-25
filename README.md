@@ -2,7 +2,7 @@
 One paragraph of project description goes here.
 This is a basic JavaFX program that opens a window and uses a button to print "Hello World" to the console. This was made by Angel Molina on August 24, 2019 as an assignment for Object-Oriented Programming at FGCU.
 
-##Demonstration
+## Demonstration
 https://media.giphy.com/media/ftwPbmTTlOFtOvSw2u/giphy.gif
 
 ## Documentation
@@ -11,7 +11,7 @@ The URL will be YourGitHubUserName.github.io/YourRepositoryName/foldername/filen
 Do not include the docs folder name in your URL. 
 Sample: [JavaDoc](https://pv-cop.github.io/PV-README-TEMPLATE/javadoc/index.html) 
 
-## JavaDoc
+JavaDoc
 
 ## Diagrams
 Such as a class diagram. 
