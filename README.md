@@ -6,12 +6,7 @@ This is a basic JavaFX program that opens a window and uses a button to print "H
 https://media.giphy.com/media/ftwPbmTTlOFtOvSw2u/giphy.gif
 
 ## Documentation
-Create a docs folder in your project. If using Java, generate JavaDoc in your IDE. If using C++, use Doxygen. Change repository settings (using Settings at top of page) to use GitHub Pages with your docs folder. Add a link to the javadoc/doxygen index.html file with this markdown: [Text to appear](URL) 
-The URL will be YourGitHubUserName.github.io/YourRepositoryName/foldername/filename
-Do not include the docs folder name in your URL. 
-Sample: [JavaDoc](https://pv-cop.github.io/PV-README-TEMPLATE/javadoc/index.html) 
-
-JavaDoc
+[JavaDoc](https://github.com/ForbiddenIdiot/TestHelloWorld/blob/master/index.html)
 
 ## Diagrams
 Such as a class diagram. 
