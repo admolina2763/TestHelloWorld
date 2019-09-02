@@ -9,8 +9,8 @@ https://media.giphy.com/media/W3U0CgmqlVSusbnPAI/giphy.gif
 
 ## Diagrams
 ![Alt text](https://github.com/ForbiddenIdiot/TestHelloWorld/blob/master/JavaFX_Tutorial_2_Diagram.png) 
-![Alt text](https://github.com/ForbiddenIdiot/TestHelloWorld/blob/master/JavaFX_Tutorial_2_Diagram2.png)
-![Alt text](https://github.com/ForbiddenIdiot/TestHelloWorld/blob/master/JavaFX_Tutorial_2_Diagram3.png)
+![Alt text](https://github.com/ForbiddenIdiot/TestHelloWorld/blob/master/JavaFX_Tutorial_2_Diagram2.jpg)
+![Alt text](https://github.com/ForbiddenIdiot/TestHelloWorld/blob/master/JavaFX_Tutorial_2_Diagram3.jpg)
 
 ## Getting Started
 Instructions to get a copy of the project up and running on someone's local machine for development and testing purposes. 
