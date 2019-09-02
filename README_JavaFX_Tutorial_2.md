@@ -36,7 +36,9 @@ Source code was inspired by this tutorial: https://docs.oracle.com/javafx/2/get_
 
 ## History
 8/26/19 Source code for Login from Tutorial Part 2 uploaded 
+
 9/1/19 Source code for Login Form from Tutorial Part 3 and CSS file uploaded
+
 9/2/19 This ReadMe was created
 
 ## Key Programming Concepts Utilized
