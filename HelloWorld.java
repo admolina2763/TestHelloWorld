@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Angel Molina
+ * Java file for HelloWorld program
+ * This program launches a windows with text that reads, "Hello World!"
+ 9/23/19
  */
 package helloworld;
 
@@ -13,10 +14,6 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-/**
- *
- * @author dell main
- */
 public class HelloWorld extends Application {
     
     @Override
@@ -41,9 +38,6 @@ public class HelloWorld extends Application {
         primaryStage.show();
     }
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         launch(args);
     }
